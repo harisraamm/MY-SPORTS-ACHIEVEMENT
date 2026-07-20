@@ -1,8 +1,6 @@
+*.jpeg
+*.jpg
+*.png
 venv/
 __pycache__/
-*.pyc
-dataset/
-models/*.keras
-static/uploads/*
-!static/uploads/.gitkeep
 .vscode/
